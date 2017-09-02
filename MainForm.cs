@@ -2,6 +2,8 @@
 using System.Drawing;
 using System.Windows.Forms;
 
+//Ricardo Perez - Lights Out Main From Code
+
 namespace LightsOut
 {
     public partial class MainForm : Form
